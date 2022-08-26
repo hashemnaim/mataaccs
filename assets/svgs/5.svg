@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.22" height="19.702" viewBox="0 0 18.22 19.702">
+  <g id="Chart" transform="translate(-7.575 -6.82)" opacity="0.3">
+    <path id="Fill_4" data-name="Fill 4" d="M0,1.394v11.46a1.386,1.386,0,0,0,2.772,0V1.394A1.386,1.386,0,1,0,0,1.394Z" transform="translate(7.575 12.29)" fill="#fff"/>
+    <path id="Fill_6" data-name="Fill 6" d="M0,1.394v16.93a1.386,1.386,0,0,0,2.772,0V1.394A1.386,1.386,0,1,0,0,1.394Z" transform="translate(15.358 6.82)" fill="#fff"/>
+    <path id="Fill_8" data-name="Fill 8" d="M0,1.394V6.8a1.386,1.386,0,0,0,2.772,0V1.394A1.386,1.386,0,1,0,0,1.394Z" transform="translate(23.023 18.339)" fill="#fff"/>
+  </g>
+</svg>

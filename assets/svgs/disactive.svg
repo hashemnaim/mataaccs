@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.499" height="23.666" viewBox="0 0 23.499 23.666">
+  <g id="Group_46067" data-name="Group 46067" transform="translate(-226.25 -690.167)" opacity="0.5">
+    <g id="Component_23_2" data-name="Component 23 – 2" transform="translate(228 692)">
+      <g id="Rectangle_9780" data-name="Rectangle 9780" fill="none" stroke="#8241db" stroke-width="5">
+        <rect width="20" height="20" rx="10" stroke="none"/>
+        <rect x="2.5" y="2.5" width="15" height="15" rx="7.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_46041" data-name="Group 46041" transform="translate(-92.75 639)">
+      <g id="Group_45311" data-name="Group 45311" transform="translate(2 1)">
+        <path id="Polygon_1" data-name="Polygon 1" d="M3.723.185a.5.5,0,0,1,.555,0L6.626,1.75a.5.5,0,0,1-.277.916h-4.7a.5.5,0,0,1-.277-.916Z" transform="translate(326.666 58) rotate(90)" fill="#fff"/>
+        <rect id="Rectangle_9709" data-name="Rectangle 9709" width="6" height="1" rx="0.5" transform="translate(317 61.5)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_46042" data-name="Group 46042" transform="translate(301.083 371.167) rotate(90)">
+      <g id="Group_45311-2" data-name="Group 45311" transform="translate(2 1)">
+        <path id="Polygon_1-2" data-name="Polygon 1" d="M3.723.185a.5.5,0,0,1,.555,0L6.626,1.75a.5.5,0,0,1-.277.916h-4.7a.5.5,0,0,1-.277-.916Z" transform="translate(326.666 58) rotate(90)" fill="#fff"/>
+        <rect id="Rectangle_9709-2" data-name="Rectangle 9709" width="6" height="1" rx="0.5" transform="translate(317 61.5)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_46043" data-name="Group 46043" transform="translate(568.75 765) rotate(180)">
+      <g id="Group_45311-3" data-name="Group 45311" transform="translate(2 1)">
+        <path id="Polygon_1-3" data-name="Polygon 1" d="M3.723.185a.5.5,0,0,1,.555,0L6.626,1.75a.5.5,0,0,1-.277.916h-4.7a.5.5,0,0,1-.277-.916Z" transform="translate(326.666 58) rotate(90)" fill="#fff"/>
+        <rect id="Rectangle_9709-3" data-name="Rectangle 9709" width="6" height="1" rx="0.5" transform="translate(317 61.5)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_46044" data-name="Group 46044" transform="translate(175.083 1032.833) rotate(-90)">
+      <g id="Group_45311-4" data-name="Group 45311" transform="translate(2 1)">
+        <path id="Polygon_1-4" data-name="Polygon 1" d="M3.723.185a.5.5,0,0,1,.555,0L6.626,1.75a.5.5,0,0,1-.277.916h-4.7a.5.5,0,0,1-.277-.916Z" transform="translate(326.666 58) rotate(90)" fill="#fff"/>
+        <rect id="Rectangle_9709-4" data-name="Rectangle 9709" width="6" height="1" rx="0.5" transform="translate(317 61.5)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
